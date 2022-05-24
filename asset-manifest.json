@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/seraph-portfolio/static/css/main.e876ad32.css",
-    "main.js": "/seraph-portfolio/static/js/main.7f1df5f8.js",
+    "main.js": "/seraph-portfolio/static/js/main.02b95f6a.js",
     "static/media/dog.jpg": "/seraph-portfolio/static/media/dog.bfa8b90d7e42fabb2495.jpg",
     "static/media/war.png": "/seraph-portfolio/static/media/war.34951c10b1f5f95842c5.png",
     "index.html": "/seraph-portfolio/index.html",
     "main.e876ad32.css.map": "/seraph-portfolio/static/css/main.e876ad32.css.map",
-    "main.7f1df5f8.js.map": "/seraph-portfolio/static/js/main.7f1df5f8.js.map"
+    "main.02b95f6a.js.map": "/seraph-portfolio/static/js/main.02b95f6a.js.map"
   },
   "entrypoints": [
     "static/css/main.e876ad32.css",
-    "static/js/main.7f1df5f8.js"
+    "static/js/main.02b95f6a.js"
   ]
 }
