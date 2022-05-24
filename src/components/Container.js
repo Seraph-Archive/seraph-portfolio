@@ -4,6 +4,7 @@ import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Footer from "./footer";
 import AboutMe from "./pages/AboutMe";
+import Resume from "./pages/Resume";
 
 
 export default function Container() {
@@ -18,6 +19,9 @@ export default function Container() {
         }
         if (currentPage === 'AboutMe') {
             return <AboutMe />;
+        }
+        if (currentPage === 'Resume') {
+            return <Resume />;
         }
     };
 
